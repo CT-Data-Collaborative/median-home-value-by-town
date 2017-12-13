@@ -1,0 +1,184 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Median value (dollars),Margin of Error; Median value (dollars)
+0400000US09,09,Connecticut,269300,1149
+0500000US09001,09001,"Fairfield County, Connecticut",413400,4573
+0500000US09003,09003,"Hartford County, Connecticut",234900,1503
+0500000US09005,09005,"Litchfield County, Connecticut",249500,4061
+0500000US09007,09007,"Middlesex County, Connecticut",283800,3086
+0500000US09009,09009,"New Haven County, Connecticut",244000,1800
+0500000US09011,09011,"New London County, Connecticut",241500,3065
+0500000US09013,09013,"Tolland County, Connecticut",247800,4208
+0500000US09015,09015,"Windham County, Connecticut",196900,3120
+0600000US0900100000,0900100000,"County subdivisions not defined, Fairfield County, Connecticut",-,**
+0600000US0900104720,0900104720,"Bethel town, Fairfield County, Connecticut",335800,9592
+0600000US0900108070,0900108070,"Bridgeport town, Fairfield County, Connecticut",168200,2736
+0600000US0900108980,0900108980,"Brookfield town, Fairfield County, Connecticut",358500,11262
+0600000US0900118500,0900118500,"Danbury town, Fairfield County, Connecticut",286400,5437
+0600000US0900118850,0900118850,"Darien town, Fairfield County, Connecticut",1248200,69247
+0600000US0900123890,0900123890,"Easton town, Fairfield County, Connecticut",629200,24652
+0600000US0900126620,0900126620,"Fairfield town, Fairfield County, Connecticut",589500,11676
+0600000US0900133620,0900133620,"Greenwich town, Fairfield County, Connecticut",1205600,40637
+0600000US0900148620,0900148620,"Monroe town, Fairfield County, Connecticut",374500,13018
+0600000US0900150580,0900150580,"New Canaan town, Fairfield County, Connecticut",1373100,122251
+0600000US0900150860,0900150860,"New Fairfield town, Fairfield County, Connecticut",356300,11360
+0600000US0900152980,0900152980,"Newtown town, Fairfield County, Connecticut",402200,12464
+0600000US0900156060,0900156060,"Norwalk town, Fairfield County, Connecticut",416800,10179
+0600000US0900163480,0900163480,"Redding town, Fairfield County, Connecticut",603300,22737
+0600000US0900163970,0900163970,"Ridgefield town, Fairfield County, Connecticut",673900,21110
+0600000US0900168170,0900168170,"Shelton town, Fairfield County, Connecticut",338200,5045
+0600000US0900168310,0900168310,"Sherman town, Fairfield County, Connecticut",472000,33863
+0600000US0900173070,0900173070,"Stamford town, Fairfield County, Connecticut",504200,14242
+0600000US0900174190,0900174190,"Stratford town, Fairfield County, Connecticut",249600,4794
+0600000US0900177200,0900177200,"Trumbull town, Fairfield County, Connecticut",392800,7448
+0600000US0900183430,0900183430,"Weston town, Fairfield County, Connecticut",857700,32830
+0600000US0900183500,0900183500,"Westport town, Fairfield County, Connecticut",1087700,53428
+0600000US0900186370,0900186370,"Wilton town, Fairfield County, Connecticut",812100,28321
+0600000US0900302060,0900302060,"Avon town, Hartford County, Connecticut",374300,14993
+0600000US0900304300,0900304300,"Berlin town, Hartford County, Connecticut",288000,7338
+0600000US0900305910,0900305910,"Bloomfield town, Hartford County, Connecticut",211800,8794
+0600000US0900308490,0900308490,"Bristol town, Hartford County, Connecticut",192500,4549
+0600000US0900310100,0900310100,"Burlington town, Hartford County, Connecticut",324100,18121
+0600000US0900312270,0900312270,"Canton town, Hartford County, Connecticut",297400,15177
+0600000US0900322070,0900322070,"East Granby town, Hartford County, Connecticut",296000,19986
+0600000US0900322630,0900322630,"East Hartford town, Hartford County, Connecticut",163300,3464
+0600000US0900324800,0900324800,"East Windsor town, Hartford County, Connecticut",205900,13972
+0600000US0900325990,0900325990,"Enfield town, Hartford County, Connecticut",184000,2914
+0600000US0900327600,0900327600,"Farmington town, Hartford County, Connecticut",329900,12031
+0600000US0900331240,0900331240,"Glastonbury town, Hartford County, Connecticut",343600,6351
+0600000US0900332640,0900332640,"Granby town, Hartford County, Connecticut",288500,13088
+0600000US0900337070,0900337070,"Hartford town, Hartford County, Connecticut",159100,3499
+0600000US0900337140,0900337140,"Hartland town, Hartford County, Connecticut",266300,12362
+0600000US0900344700,0900344700,"Manchester town, Hartford County, Connecticut",183000,3697
+0600000US0900345820,0900345820,"Marlborough town, Hartford County, Connecticut",303600,27812
+0600000US0900350440,0900350440,"New Britain town, Hartford County, Connecticut",157300,3149
+0600000US0900352140,0900352140,"Newington town, Hartford County, Connecticut",228000,4252
+0600000US0900360120,0900360120,"Plainville town, Hartford County, Connecticut",204000,10618
+0600000US0900365370,0900365370,"Rocky Hill town, Hartford County, Connecticut",254400,13183
+0600000US0900368940,0900368940,"Simsbury town, Hartford County, Connecticut",328600,6800
+0600000US0900370550,0900370550,"Southington town, Hartford County, Connecticut",267800,6183
+0600000US0900371390,0900371390,"South Windsor town, Hartford County, Connecticut",276200,6050
+0600000US0900374540,0900374540,"Suffield town, Hartford County, Connecticut",295200,13761
+0600000US0900382590,0900382590,"West Hartford town, Hartford County, Connecticut",318800,6047
+0600000US0900384900,0900384900,"Wethersfield town, Hartford County, Connecticut",246200,4050
+0600000US0900387000,0900387000,"Windsor town, Hartford County, Connecticut",217500,5707
+0600000US0900387070,0900387070,"Windsor Locks town, Hartford County, Connecticut",190700,5116
+0600000US0900502760,0900502760,"Barkhamsted town, Litchfield County, Connecticut",251400,19933
+0600000US0900504930,0900504930,"Bethlehem town, Litchfield County, Connecticut",351200,22837
+0600000US0900508210,0900508210,"Bridgewater town, Litchfield County, Connecticut",505200,52291
+0600000US0900510940,0900510940,"Canaan town, Litchfield County, Connecticut",278700,29911
+0600000US0900516050,0900516050,"Colebrook town, Litchfield County, Connecticut",270700,19253
+0600000US0900517240,0900517240,"Cornwall town, Litchfield County, Connecticut",420100,46284
+0600000US0900532290,0900532290,"Goshen town, Litchfield County, Connecticut",362600,21804
+0600000US0900537280,0900537280,"Harwinton town, Litchfield County, Connecticut",282900,14549
+0600000US0900540290,0900540290,"Kent town, Litchfield County, Connecticut",365800,33700
+0600000US0900543370,0900543370,"Litchfield town, Litchfield County, Connecticut",312400,17465
+0600000US0900549460,0900549460,"Morris town, Litchfield County, Connecticut",344000,19991
+0600000US0900551350,0900551350,"New Hartford town, Litchfield County, Connecticut",294600,19424
+0600000US0900552630,0900552630,"New Milford town, Litchfield County, Connecticut",288200,9570
+0600000US0900553470,0900553470,"Norfolk town, Litchfield County, Connecticut",310900,38548
+0600000US0900554030,0900554030,"North Canaan town, Litchfield County, Connecticut",212100,18369
+0600000US0900560750,0900560750,"Plymouth town, Litchfield County, Connecticut",188900,5228
+0600000US0900565930,0900565930,"Roxbury town, Litchfield County, Connecticut",638400,37279
+0600000US0900566420,0900566420,"Salisbury town, Litchfield County, Connecticut",433800,82755
+0600000US0900567960,0900567960,"Sharon town, Litchfield County, Connecticut",385500,45310
+0600000US0900575730,0900575730,"Thomaston town, Litchfield County, Connecticut",205100,14333
+0600000US0900576570,0900576570,"Torrington town, Litchfield County, Connecticut",162300,3430
+0600000US0900579510,0900579510,"Warren town, Litchfield County, Connecticut",371000,24360
+0600000US0900579720,0900579720,"Washington town, Litchfield County, Connecticut",449500,49096
+0600000US0900580490,0900580490,"Watertown town, Litchfield County, Connecticut",241100,8846
+0600000US0900586440,0900586440,"Winchester town, Litchfield County, Connecticut",171500,10225
+0600000US0900587910,0900587910,"Woodbury town, Litchfield County, Connecticut",331800,17419
+0600000US0900700000,0900700000,"County subdivisions not defined, Middlesex County, Connecticut",-,**
+0600000US0900714300,0900714300,"Chester town, Middlesex County, Connecticut",354300,23714
+0600000US0900715350,0900715350,"Clinton town, Middlesex County, Connecticut",286200,8581
+0600000US0900718080,0900718080,"Cromwell town, Middlesex County, Connecticut",245100,11069
+0600000US0900719130,0900719130,"Deep River town, Middlesex County, Connecticut",275100,12946
+0600000US0900720810,0900720810,"Durham town, Middlesex County, Connecticut",345400,16596
+0600000US0900722280,0900722280,"East Haddam town, Middlesex County, Connecticut",279500,11334
+0600000US0900722490,0900722490,"East Hampton town, Middlesex County, Connecticut",258900,12815
+0600000US0900726270,0900726270,"Essex town, Middlesex County, Connecticut",363600,22637
+0600000US0900735230,0900735230,"Haddam town, Middlesex County, Connecticut",297300,17142
+0600000US0900740710,0900740710,"Killingworth town, Middlesex County, Connecticut",372800,23098
+0600000US0900747080,0900747080,"Middlefield town, Middlesex County, Connecticut",304100,24708
+0600000US0900747360,0900747360,"Middletown town, Middlesex County, Connecticut",228500,4998
+0600000US0900757320,0900757320,"Old Saybrook town, Middlesex County, Connecticut",373600,14246
+0600000US0900761800,0900761800,"Portland town, Middlesex County, Connecticut",244500,11356
+0600000US0900781680,0900781680,"Westbrook town, Middlesex County, Connecticut",374000,34380
+0600000US0900900000,0900900000,"County subdivisions not defined, New Haven County, Connecticut",-,**
+0600000US0900901220,0900901220,"Ansonia town, New Haven County, Connecticut",214800,7879
+0600000US0900903250,0900903250,"Beacon Falls town, New Haven County, Connecticut",231800,19691
+0600000US0900904580,0900904580,"Bethany town, New Haven County, Connecticut",343500,21985
+0600000US0900907310,0900907310,"Branford town, New Haven County, Connecticut",293600,9452
+0600000US0900914160,0900914160,"Cheshire town, New Haven County, Connecticut",330600,7714
+0600000US0900919550,0900919550,"Derby town, New Haven County, Connecticut",199400,14560
+0600000US0900922910,0900922910,"East Haven town, New Haven County, Connecticut",207000,6185
+0600000US0900934950,0900934950,"Guilford town, New Haven County, Connecticut",385500,11057
+0600000US0900935650,0900935650,"Hamden town, New Haven County, Connecticut",228200,5410
+0600000US0900944560,0900944560,"Madison town, New Haven County, Connecticut",440600,16238
+0600000US0900946520,0900946520,"Meriden town, New Haven County, Connecticut",174800,3846
+0600000US0900946940,0900946940,"Middlebury town, New Haven County, Connecticut",353800,12511
+0600000US0900947535,0900947535,"Milford town, New Haven County, Connecticut",306000,6839
+0600000US0900949950,0900949950,"Naugatuck town, New Haven County, Connecticut",178800,6500
+0600000US0900952070,0900952070,"New Haven town, New Haven County, Connecticut",190700,6538
+0600000US0900953890,0900953890,"North Branford town, New Haven County, Connecticut",282600,8952
+0600000US0900954870,0900954870,"North Haven town, New Haven County, Connecticut",295500,6950
+0600000US0900957600,0900957600,"Orange town, New Haven County, Connecticut",382300,7436
+0600000US0900958300,0900958300,"Oxford town, New Haven County, Connecticut",346500,10665
+0600000US0900962290,0900962290,"Prospect town, New Haven County, Connecticut",295300,14971
+0600000US0900967610,0900967610,"Seymour town, New Haven County, Connecticut",255800,9418
+0600000US0900969640,0900969640,"Southbury town, New Haven County, Connecticut",318600,14760
+0600000US0900978740,0900978740,"Wallingford town, New Haven County, Connecticut",264800,6018
+0600000US0900980070,0900980070,"Waterbury town, New Haven County, Connecticut",129500,3783
+0600000US0900982870,0900982870,"West Haven town, New Haven County, Connecticut",193800,5047
+0600000US0900987560,0900987560,"Wolcott town, New Haven County, Connecticut",243400,8697
+0600000US0900987700,0900987700,"Woodbridge town, New Haven County, Connecticut",484300,21531
+0600000US0901100000,0901100000,"County subdivisions not defined, New London County, Connecticut",-,**
+0600000US0901106820,0901106820,"Bozrah town, New London County, Connecticut",232900,14034
+0600000US0901115910,0901115910,"Colchester town, New London County, Connecticut",268500,8696
+0600000US0901123400,0901123400,"East Lyme town, New London County, Connecticut",298600,9715
+0600000US0901129910,0901129910,"Franklin town, New London County, Connecticut",239900,9884
+0600000US0901133900,0901133900,"Griswold town, New London County, Connecticut",192500,18871
+0600000US0901134250,0901134250,"Groton town, New London County, Connecticut",247100,9628
+0600000US0901142390,0901142390,"Lebanon town, New London County, Connecticut",255500,15725
+0600000US0901142600,0901142600,"Ledyard town, New London County, Connecticut",243000,10489
+0600000US0901143230,0901143230,"Lisbon town, New London County, Connecticut",220900,15327
+0600000US0901144210,0901144210,"Lyme town, New London County, Connecticut",497300,78307
+0600000US0901148900,0901148900,"Montville town, New London County, Connecticut",191700,5898
+0600000US0901152350,0901152350,"New London town, New London County, Connecticut",183900,6633
+0600000US0901155500,0901155500,"North Stonington town, New London County, Connecticut",290000,16489
+0600000US0901156270,0901156270,"Norwich town, New London County, Connecticut",169600,5562
+0600000US0901157040,0901157040,"Old Lyme town, New London County, Connecticut",408100,22255
+0600000US0901162150,0901162150,"Preston town, New London County, Connecticut",249500,21588
+0600000US0901166210,0901166210,"Salem town, New London County, Connecticut",268700,14101
+0600000US0901171670,0901171670,"Sprague town, New London County, Connecticut",227700,26860
+0600000US0901173770,0901173770,"Stonington town, New London County, Connecticut",315300,18655
+0600000US0901178600,0901178600,"Voluntown town, New London County, Connecticut",229100,15224
+0600000US0901180280,0901180280,"Waterford town, New London County, Connecticut",253800,8583
+0600000US0901301080,0901301080,"Andover town, Tolland County, Connecticut",281700,15616
+0600000US0901306260,0901306260,"Bolton town, Tolland County, Connecticut",292900,17195
+0600000US0901316400,0901316400,"Columbia town, Tolland County, Connecticut",242300,12854
+0600000US0901317800,0901317800,"Coventry town, Tolland County, Connecticut",252600,14532
+0600000US0901325360,0901325360,"Ellington town, Tolland County, Connecticut",264100,18609
+0600000US0901337910,0901337910,"Hebron town, Tolland County, Connecticut",299700,15906
+0600000US0901344910,0901344910,"Mansfield town, Tolland County, Connecticut",235500,9783
+0600000US0901369220,0901369220,"Somers town, Tolland County, Connecticut",306700,13985
+0600000US0901372090,0901372090,"Stafford town, Tolland County, Connecticut",193400,10354
+0600000US0901376290,0901376290,"Tolland town, Tolland County, Connecticut",277900,15015
+0600000US0901377830,0901377830,"Union town, Tolland County, Connecticut",275000,20836
+0600000US0901378250,0901378250,"Vernon town, Tolland County, Connecticut",205900,6947
+0600000US0901385950,0901385950,"Willington town, Tolland County, Connecticut",228800,12818
+0600000US0901501430,0901501430,"Ashford town, Windham County, Connecticut",237600,15394
+0600000US0901509190,0901509190,"Brooklyn town, Windham County, Connecticut",224200,9843
+0600000US0901512130,0901512130,"Canterbury town, Windham County, Connecticut",224000,17458
+0600000US0901513810,0901513810,"Chaplin town, Windham County, Connecticut",200500,12854
+0600000US0901521860,0901521860,"Eastford town, Windham County, Connecticut",244800,16950
+0600000US0901536000,0901536000,"Hampton town, Windham County, Connecticut",224500,10580
+0600000US0901540500,0901540500,"Killingly town, Windham County, Connecticut",187300,6496
+0600000US0901559980,0901559980,"Plainfield town, Windham County, Connecticut",169900,4920
+0600000US0901561030,0901561030,"Pomfret town, Windham County, Connecticut",273900,16452
+0600000US0901562710,0901562710,"Putnam town, Windham County, Connecticut",182800,10639
+0600000US0901567400,0901567400,"Scotland town, Windham County, Connecticut",240600,21889
+0600000US0901573420,0901573420,"Sterling town, Windham County, Connecticut",196600,15193
+0600000US0901575870,0901575870,"Thompson town, Windham County, Connecticut",195700,11575
+0600000US0901586790,0901586790,"Windham town, Windham County, Connecticut",158900,8062
+0600000US0901588190,0901588190,"Woodstock town, Windham County, Connecticut",246600,15077
