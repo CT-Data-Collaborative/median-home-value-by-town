@@ -1,4 +1,6 @@
 library(dplyr)
+library(devtools)
+load_all('../datapkg')
 library(datapkg)
 library(acs)
 library(stringr)
@@ -18,7 +20,7 @@ source('./scripts/acsHelpers.R')
 options(scipen=999)
 acsdata <- getACSData(
     getCTGeos("town"),
-    yearList = 2010:2016,
+    yearList = 2010:2017,
     table = "B25077"
 )
 
@@ -119,7 +121,7 @@ data_long_final <- data_long_final %>%
 
 write.table(
     data_long_final,
-    file.path("data", "median-home-value-town-2016.csv"),
+    file.path("data", "median-home-value-town-2017.csv"),
     sep = ",",
     row.names = F,
     col.names = T,
