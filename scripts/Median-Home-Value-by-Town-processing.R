@@ -20,7 +20,7 @@ source('./scripts/acsHelpers.R')
 options(scipen=999)
 acsdata <- getACSData(
     getCTGeos("town"),
-    yearList = 2010:2017,
+    yearList = 2010:2018,
     table = "B25077"
 )
 
@@ -37,6 +37,7 @@ for (data in acsdata) {
     )
     
     names(estimates)[names(estimates) == "HD01_VD01.Estimate; Median value (dollars)"] <- "Median Home Value"
+    names(estimates)[names(estimates) == "B25077_001E.Estimate!!Median value (dollars)"] <- "Median Home Value"
 
 
     estimates <- melt(
@@ -55,6 +56,7 @@ for (data in acsdata) {
     )
     
     names(moes)[names(moes) == "HD01_VD01.Estimate; Median value (dollars)"] <- "Median Home Value"
+    names(moes)[names(moes) == "B25077_001E.Estimate!!Median value (dollars)"] <- "Median Home Value"
 
 
     moes <- melt(
@@ -121,7 +123,7 @@ data_long_final <- data_long_final %>%
 
 write.table(
     data_long_final,
-    file.path("data", "median-home-value-town-2017.csv"),
+    file.path("data", "median-home-value-town-2018.csv"),
     sep = ",",
     row.names = F,
     col.names = T,

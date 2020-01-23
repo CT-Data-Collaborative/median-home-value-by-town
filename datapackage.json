@@ -15,13 +15,13 @@
     "web": ""
   }],
   "author":[{
-    "name": "Connecticut Data Collaborative",
+    "name": "CTData Collaborative",
     "email": "info@ctdata.org",
     "web": "http://ctdata.org"
   }],
   "contributor": [],
   "resources": [{
-    "path": "data/median-home-value-town-2017.csv",
+    "path": "data/median-home-value-town-2018.csv",
     "format": "csv",
     "schema": {
       "fields": [{
@@ -58,7 +58,7 @@
       }
     }
   ],
-  "last_modified": "01/15/2019",
+  "last_modified": "01/23/2020",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
@@ -113,12 +113,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["2006-2010", "2007-2011", "2008-2012", "2009-2013", "2010-2014", "2011-2015", "2012-2016", "2013-2017"],
+      "value": ["2006-2010", "2007-2011", "2008-2012", "2009-2013", "2010-2014", "2011-2015", "2012-2016", "2013-2017", "2014-2018"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2013-2017",
+      "value": "2014-2018",
       "type": "string"
     },
     "disabled_views": {
@@ -143,7 +143,7 @@
       "ckan_name": "Default",
       "value": {
         "Town": "Connecticut",
-        "Year": ["2013-2017"],
+        "Year": ["2014-2018"],
         "Measure Type": "Number",
         "Variable": "Median Home Value"
       },
